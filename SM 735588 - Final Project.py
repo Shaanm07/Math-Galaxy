@@ -1,5 +1,4 @@
 # Name: Shaan Mehta
-# Student ID: 735588
 # Description: This is the Math Galaxy! This GUI-based math game has been
 #              designed to help younger students practice the fundamentals of
 #              math in an enjoyable way. By using interactive flashcards with
