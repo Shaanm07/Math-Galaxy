@@ -1,5 +1,4 @@
 # Name: Shaan Mehta
-# Student ID: 735588
 # Description: This is the Math Galaxy! Currently, there is not any
 #              functionality for the buttons since this is just a rough
 #              idea as to how I would like my GUI screen to look like. The
